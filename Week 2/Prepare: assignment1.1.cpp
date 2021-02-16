@@ -1,6 +1,6 @@
 /***********************************************************************
 * Program:
-*    Assignment 11, Output
+*    Assignment 1.1, Output
 *    Brother Manley, CS124
 * Author:
 *    James Lule
